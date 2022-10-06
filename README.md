@@ -1,3 +1,5 @@
+https://user-images.githubusercontent.com/486927/194367562-25904a77-b986-4cf1-93d9-c7491ca7d79e.mov
+
 # Introduction
 
 This is a browser (Chrome) extension for fast (re)login in a Plone 6 (Volto) site while in development. It's also handy in case that Plone kicked us out (ie. one day after last login passed) or in some strange cases that the HMR (Hot Module Reloading) provokes to loose the logged-in state.
